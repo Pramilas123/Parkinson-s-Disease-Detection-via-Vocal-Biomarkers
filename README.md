@@ -1,4 +1,4 @@
-# Parkinson-s-Disease-Detection-via-Vocal-Biomarkers
+# Parkinson's-Disease-Detection-via-Vocal-Biomarkers
 🎙️ Parkinson's Disease Detection via Vocal Biomarkers
 This project focuses on the early recognition of Parkinson's Disease (PD) using vocal biomarkers extracted from speech recordings. Parkinson’s often affects speech production, introducing subtle changes in voice that can be detected through acoustic analysis. This system leverages both traditional and nonlinear features to build a robust machine learning model capable of distinguishing between healthy individuals and PD patients.
 
